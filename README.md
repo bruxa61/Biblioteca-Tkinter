@@ -5,7 +5,7 @@ Um sistema de votação simples e visual feito com **Python**, utilizando `tkint
 
 ---
 
-<img src="img/Projeto_Tkinter.png" alt="Exemplo imagem">
+<img src="tinkerBell/img/Projeto_Tkinter.png" alt="Exemplo imagem">
 
 ---
 
